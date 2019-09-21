@@ -7,7 +7,23 @@
     <title>Document</title>
 </head>
 <body>
-    <p>pierwszy wiersz</p>
-    <spam>to jest spam</spam>
+    <form action="https://formspree.io/email@domain.tld" method="POST">
+        <label for="name">Imię i nazwisko </label>
+        <input type="text" name="name">
+        <br>
+        
+        <label for="email">Mail</label>
+        <input type="email" name="mail" id="mail">
+        <br>
+
+        <label for="tel">Telephone</label>
+        <input type="tel" name="telephone" id="phone">
+
+        <br>
+        <label for="mail2">Wiadomość</label>
+        <textarea name="mail2" id="mail2" cols="30" rows="10"></textarea>
+        
+        <input type="submit" value="Send">
+    </form>
 </body>
 </html>
