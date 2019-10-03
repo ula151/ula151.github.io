@@ -1,0 +1,129 @@
+#bigbox {
+  position: relative;
+  width: 308px;
+  height: 308px;
+  background-color: aliceblue;
+}
+.box {
+  position: absolute;
+  width: 100px;
+  height: 100px;
+  /*background-color: green;
+  top: 10px;
+  left: 10px;*/
+}
+#box1 {
+  background-color: red;
+  top: 10px;
+  left: 10px;
+  
+}
+#box2 {
+background-color: blue;
+top: 10px;
+left: 112px;
+}
+
+#box3 {
+background-color: green;
+top: 10px;
+left: 214px;
+}
+
+#box4 {
+background-color: yellow;
+top: 112px;
+left: 10px;
+}
+
+#box5 {
+ background-color: black;
+top: 112px;
+left: 112px; 
+}
+
+#box6 {
+  background-color: orange;
+top: 112px;
+left: 214px; 
+}
+
+#box7 {
+  background-color: purple;
+top: 214px;
+left: 10px; 
+}
+
+#box8 {
+background-color: grey;
+top: 214px;
+left: 112px; 
+}
+
+#box9 {
+background-color: pink;
+top: 214px;
+left: 214px; 
+}
+
+.circle {
+  position: absolute;
+  border-radius: 40px;
+  width: 60px;
+  height: 60px;
+  border: 1px solid black;
+
+}
+
+#circle1 {
+  background-color: pink;
+  top: 30px;
+  left: 30px;
+}
+
+#circle2 {
+  background-color: grey;
+  top: 30px;
+  left: 130px;
+}
+
+#circle3 {
+  background-color: purple;
+  top: 30px;
+  left: 232px;
+}
+#circle4 {
+  background-color: green;
+  top: 130px;
+  left: 30px;
+}
+#circle5 {
+  background-color:red;
+  top: 130px;
+  left: 130px;
+}
+#circle6 {
+  background-color:blue;
+  top: 130px;
+  left: 232px;
+
+}
+#circle7 {
+  background-color: orange;
+  top: 232px;
+  left: 30px;
+
+}
+#circle8 {
+  background-color: yellow;
+  top: 232px;
+  left: 130px;
+
+}
+
+#circle9 {
+  background-color:black;
+  top: 232px;
+  left: 232px;
+
+}
