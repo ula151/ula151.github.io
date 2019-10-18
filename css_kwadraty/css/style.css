@@ -1,0 +1,13 @@
+* {
+    background-color: grey;
+}
+
+
+.box{
+    background-color: orange;
+    width: 100px;
+    height: 100px;
+    display: block;
+    margin: 6px;
+
+}
